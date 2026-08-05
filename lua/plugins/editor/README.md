@@ -13,7 +13,7 @@
 | `surround.lua` | `kylechui/nvim-surround` | 快速添加/修改/删除环绕字符 |
 | `toggleterm.lua` | `akinsho/toggleterm.nvim` | 浮动/底部终端集成 |
 | `flash.lua` | `folke/flash.nvim` | 快速跳转（按 `s` 触发） |
-| `minimove.lua` | `echasnovski/mini.nvim` | 使用 `Alt+h/j/k/l` 移动选中文本或整行 |
+| `mini.lua` | `nvim-mini/mini.nvim` | 使用 `Alt+h/j/k/l` 移动选中文本或整行 , `Alt+e`跳出匹配括号|
 | `ts-autotag.lua` | `windwp/nvim-ts-autotag` | HTML/JSX 标签自动闭合和重命名 |
 | `blankline.lua` | `lukas-reineke/indent-blankline.nvim` | 彩虹缩进参考线 |
 | `rainbow.lua` | `HiPhish/rainbow-delimiters.nvim` | 彩虹括号匹配高亮 |

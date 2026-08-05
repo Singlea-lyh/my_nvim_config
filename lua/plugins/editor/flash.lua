@@ -4,7 +4,7 @@
 -- 按 s 触发后输入字符即可快速跳转到任意位置，类似 Sneak/EasyMotion
 
 return {
-  "folke/flash.nvim",
-  event = "VeryLazy",
-  opts = {},
+    "folke/flash.nvim",
+    event = "VeryLazy",
+    opts = {},
 }

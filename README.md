@@ -533,7 +533,7 @@
         │   ├── ufo.lua           # 智能代码折叠
         │   ├── flash.lua         # 快速跳转
         │   ├── illuminate.lua    # 高亮相同单词
-        │   ├── minimove.lua      # 文本移动（Alt+h/j/k/l）
+        │   ├── mini.lua          # 文本移动（Alt+h/j/k/l）自动跳出括号
         │   ├── surround.lua      # 环绕字符操作
         │   ├── toggleterm.lua    # 浮动/底部终端
         │   ├── yazi.lua          # Yazi 文件管理器
